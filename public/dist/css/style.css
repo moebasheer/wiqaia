@@ -1,0 +1,61 @@
+.dash {
+    background-color:
+        #3c8dbc;
+
+    display: inline-block;
+
+    padding: 10px;
+
+    border-radius: 4px;
+
+    box-shadow: 0px 2px 4px 0px #222d32;
+
+    color:
+        #fff;
+}
+
+.table-bordered {
+    border: 1px solid #3c8dbc
+}
+
+table {
+    background-color:
+        #fff;
+}
+
+.table-bordered > thead > tr > th,
+.table-bordered > tbody > tr > th,
+.table-bordered > tfoot > tr > th,
+.table-bordered > thead > tr > td,
+.table-bordered > tbody > tr > td,
+.table-bordered > tfoot > tr > td {
+    border: 1px solid #3c8dbc;
+}
+
+.act {
+    background-color:#3c8dbc;
+    color:#fff;
+}
+.panel-default > .panel-heading {
+    background-color:#75848c;
+    border-color:#ddd;
+    color:#fff;
+}
+.regicon i {
+    position: absolute;
+    top: 0px;
+    left: 15px;
+    background-color:
+#75848c;
+padding: 10px;
+color:
+#fff;
+    width: 35px
+}
+.adduser{
+    width: 50%;
+    margin: auto
+}
+.imguser img{
+    width: 120px;
+}
